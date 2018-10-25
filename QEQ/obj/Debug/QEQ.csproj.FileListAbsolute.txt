@@ -1,0 +1,294 @@
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\ApplicationInsights.config
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\QEQ.dll.config
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\QEQ.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\QEQ.pdb
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\csc.exe
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\csc.exe.config
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\csc.rsp
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\csi.exe
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\csi.exe.config
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\csi.rsp
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.AppContext.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Console.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Security.Claims.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\vbc.exe
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\vbc.exe.config
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\vbc.rsp
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Antlr3.Runtime.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.AI.Web.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Newtonsoft.Json.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.Helpers.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.Mvc.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.Optimization.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.Razor.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.WebPages.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\WebGrease.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.Helpers.xml
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.Mvc.xml
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.Optimization.xml
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.Razor.xml
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.WebPages.xml
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Newtonsoft.Json.xml
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Antlr3.Runtime.pdb
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.AI.Web.xml
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\es\System.Web.Razor.resources.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\obj\Debug\QEQ.csprojAssemblyReference.cache
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\obj\Debug\QEQ.csproj.CoreCompileInputs.cache
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\obj\Debug\QEQ.csproj.CopyComplete
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\obj\Debug\QEQ.dll
+C:\Users\Aldana\Documents\QuienEsQuien-Grupo2\QEQ\QEQ\obj\Debug\QEQ.pdb
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\ApplicationInsights.config
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\QEQ.dll.config
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\QEQ.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\QEQ.pdb
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\csc.exe
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\csc.exe.config
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\csc.rsp
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\csi.exe
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\csi.exe.config
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\csi.rsp
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\Microsoft.Managed.Core.targets
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.AppContext.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Collections.Immutable.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Console.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Diagnostics.StackTrace.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.IO.Compression.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.IO.FileSystem.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.IO.Pipes.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Reflection.Metadata.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Security.AccessControl.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Security.Claims.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Security.Principal.Windows.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Text.Encoding.CodePages.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.ValueTuple.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Xml.ReaderWriter.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Xml.XmlDocument.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Xml.XPath.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Xml.XPath.XDocument.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\vbc.exe
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\vbc.exe.config
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\vbc.rsp
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\VBCSCompiler.exe
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\VBCSCompiler.exe.config
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Antlr3.Runtime.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.AI.Agent.Intercept.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.AI.DependencyCollector.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.AI.PerfCounterCollector.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.AI.Web.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.AI.WindowsServer.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.ApplicationInsights.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.Web.Infrastructure.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Newtonsoft.Json.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Diagnostics.DiagnosticSource.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.Helpers.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.Mvc.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.Optimization.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.Razor.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.WebPages.Deployment.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.WebPages.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.WebPages.Razor.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\WebGrease.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.Helpers.xml
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.Mvc.xml
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.Optimization.xml
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.Razor.xml
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.WebPages.xml
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.WebPages.Deployment.xml
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.WebPages.Razor.xml
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Newtonsoft.Json.xml
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Antlr3.Runtime.pdb
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Diagnostics.DiagnosticSource.xml
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.AI.DependencyCollector.xml
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.AI.WindowsServer.xml
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.AI.Web.xml
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\es\System.Web.Helpers.resources.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\es\System.Web.Mvc.resources.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\es\System.Web.Optimization.resources.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\es\System.Web.Razor.resources.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\es\System.Web.WebPages.resources.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\es\System.Web.WebPages.Deployment.resources.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\bin\es\System.Web.WebPages.Razor.resources.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\obj\Debug\QEQ.csprojAssemblyReference.cache
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\obj\Debug\QEQ.csproj.CoreCompileInputs.cache
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\obj\Debug\QEQ.csproj.CopyComplete
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\obj\Debug\QEQ.dll
+Z:\4IC 2018\Programacion\QuienEsQuien-Grupo2\QEQ\QEQ\obj\Debug\QEQ.pdb
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\ApplicationInsights.config
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\QEQ.dll.config
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\QEQ.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\QEQ.pdb
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\csc.exe
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\csc.exe.config
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\csc.rsp
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\csi.exe
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\csi.exe.config
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\csi.rsp
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\Microsoft.Managed.Core.targets
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.AppContext.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Collections.Immutable.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Console.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Diagnostics.StackTrace.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.IO.Compression.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.IO.FileSystem.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.IO.Pipes.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Security.AccessControl.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Security.Claims.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Security.Principal.Windows.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Text.Encoding.CodePages.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.ValueTuple.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Xml.ReaderWriter.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Xml.XmlDocument.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Xml.XPath.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\System.Xml.XPath.XDocument.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\vbc.exe
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\vbc.exe.config
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\vbc.rsp
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\VBCSCompiler.exe
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\roslyn\VBCSCompiler.exe.config
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Antlr3.Runtime.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.AI.Agent.Intercept.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.AI.DependencyCollector.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.AI.PerfCounterCollector.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.AI.Web.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.AI.WindowsServer.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.ApplicationInsights.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.Web.Infrastructure.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Newtonsoft.Json.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Diagnostics.DiagnosticSource.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.Helpers.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.Mvc.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.Optimization.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.Razor.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.WebPages.Deployment.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.WebPages.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.WebPages.Razor.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\WebGrease.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.Helpers.xml
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.Mvc.xml
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.Optimization.xml
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.Razor.xml
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.WebPages.xml
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.WebPages.Deployment.xml
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Web.WebPages.Razor.xml
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Newtonsoft.Json.xml
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Antlr3.Runtime.pdb
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\System.Diagnostics.DiagnosticSource.xml
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.AI.DependencyCollector.xml
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.AI.WindowsServer.xml
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.AI.Web.xml
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\es\System.Web.Helpers.resources.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\es\System.Web.Mvc.resources.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\es\System.Web.Optimization.resources.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\es\System.Web.Razor.resources.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\es\System.Web.WebPages.resources.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\es\System.Web.WebPages.Deployment.resources.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\bin\es\System.Web.WebPages.Razor.resources.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\obj\Debug\QEQ.csprojAssemblyReference.cache
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\obj\Debug\QEQ.csproj.CoreCompileInputs.cache
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\obj\Debug\QEQ.csproj.CopyComplete
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\obj\Debug\QEQ.dll
+Z:\Programacion\QEQ\QuienEsQuien-Grupo2\QEQ\QEQ\obj\Debug\QEQ.pdb

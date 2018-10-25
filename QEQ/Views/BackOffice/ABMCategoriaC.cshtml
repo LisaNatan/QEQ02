@@ -1,0 +1,28 @@
+﻿@using QEQ.Models
+@model CategoriaCaracteristica
+
+@{
+    ViewBag.Title = "ABMCATEGORIAC | Listado";
+}
+<link rel="stylesheet" type="text/css" href="~/Content/estilo.css" />
+<h1>Categoria Caracteristica</h1>
+
+@Html.ActionLink("Nueva Categoria", "EdicionCaractegoriaC", "BackOffice", new { Accion = "Insertar", ID = 0 }, null)
+
+<table>
+    <tr>
+        <th>Nombre</th>
+        <th width="200"></th>
+        <th width="200"></th>
+        <th width="200"></th>
+    </tr>
+    @foreach (CategoriaCaracteristica cc in ViewBag.ListaCategoriasC)
+    {
+        <tr>
+            <td>@cc.Nombre</td>
+            <td>@Html.ActionLink("Editar", "EdicionCategoriaC", "BackOffice", new { Accion = "Editar", ID = @cc.ID }, null)</td>
+            <td>@Html.ActionLink("Ver", "EdicionCategoriaC", "BackOffice", new { Accion = "Ver", ID = @cc.ID }, null)</td>
+            <td>@Html.ActionLink("Eliminar", "EdicionCategoriaC", "BackOffice", new { Accion = "Eliminar", ID = @cc.ID }, null)</td>
+        </tr>
+    }
+</table>

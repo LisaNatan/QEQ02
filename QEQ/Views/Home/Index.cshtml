@@ -1,0 +1,40 @@
+﻿@{
+    ViewBag.Title = "QUIEN ES QUIEN | Home";
+}
+
+
+<link href="https://fonts.googleapis.com/css?family=Poppins:400,700,900" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="bootstrap">
+
+<div class="jumbotron">
+    <img src="~/Content/Logo6.png" alt="Logo">
+    <h1>Quién es Quién</h1>
+    <p class="lead">Un divertidisimo juego que desafiara tus habilidades de adivinanza</p>
+
+</div>
+ 
+<div class="row">
+    <div class="col-md-4">
+        <img src="~/Content/Instrucciones6.png" alt="Instrucciones">
+        <h2>Instrucciones</h2>
+        <p style="border-left: 6px solid #06949b ;"> Ingrese aquí para leer las instrucciones que lo ayudaran a ser el mejor en el juego "Quién es Quién"</p>
+        <p><a class="btn btn-default" style="background-color: #edd015 ;" href=@Url.Action("Instrucciones", "Home")>Ir &raquo;</a></p>
+
+    </div>
+
+    <div class="col-md-4">
+
+        <img src="~/Content/Play6.png" alt="Jugar">
+        <h2>Jugar</h2>
+        <p style="border-left: 6px solid #06949b ;">Ingrese aquí para empezar a jugar al divertido juego "Quién es Quién"</p>
+        <p><a class="btn btn-default"style=" background-color: #edd015 ;" href="@Url.Action("Jugar", "Home")">Ir &raquo;</a></p>
+
+    </div>
+
+    <div class="col-md-4">
+        <img src="~/Content/About6.png" alt="About">
+        <h2>About</h2>
+        <p style="border-left: 6px solid #06949b ;"  >Ingrese aqué para obtener informacion sobre el juego "Quién es Quién"</p>
+        <p><a class="btn btn-default" style=" background-color: #edd015 ;" href="@Url.Action("About", "Home")">Ir &raquo;</a></p>
+    </div>
+</div>

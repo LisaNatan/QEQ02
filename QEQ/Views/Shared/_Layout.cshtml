@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title QUIEN ES QUIEN</title>
+    @using QEQ.Models
+    @model Usuario
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top" style="background-color:#06949b;">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Home", "Index", "Home", new { area = "" }, 
+                        new { @class = "navbar-brand", @style="color: white" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Iniciar Sesión", "LogIn", "Home", null, new { @class = "Menu", @style = "color: white" })</li>
+                    <li>@Html.ActionLink("Registrarme", "Registro", "Home", null, new { @class = "Menu", @style = "color: white" })</li>
+                    <li>@Html.LabelFor((x => x.NombreUsuario), (object)ViewBag.Enabled)</li>
+                    <li>@Html.LabelFor((x => x.Monedas), (object)ViewBag.Enabled)</li>
+                </ul>
+           
+                    <ul>
+                        <li>@Html.ActionLink("Cerrar Sesión", "LogOut", "Home", null, new { @class = "Menu", @style = "color: white" })</li>
+                    </ul>
+ 
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
+
+<style>
+    .Menu {
+        font-family: 'Poppins', sans-serif;
+        color: white;
+    }
+
+    .Menu:hover {
+        font-family: 'Poppins', sans-serif;
+        color: #edd015;
+        text-decoration: none;
+    }
+</style>

@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewBag.Title = "QUIEN ES QUIEN | Inicio de Juego";
+}
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="~/Content/estilo.css" />
+<h1>Jugar</h1>
+
+<article>
+    <h2>Instrucciones</h2>
+        <p>
+            En el juego <em>Quien es Quien</em> el jugador deberá adivinar el personaje elegido por su oponente mediante una serie de preguntas que descontarán una suma de Infocoins de su botín. <br />
+            Cada pregunta tumbará del tablero los personajes que no cumplan con dicha característica.
+        </p><br />
+
+        <p>El jugador tiene la posibilidad de arriesgarse por el personaje que supone que es el elegido. Si este falla con su predicción se le descontarán la mitad de sus Infocoins.</p><br />
+
+        <p>El jugador podrá ver la lista de personajes antes de comenzar el juego. Si desea consultar nuevamente durante la partida se le descontarán 5.000 Infocoins.</p><br />
+
+        <p>Una vez adivinado el personaje no olvides completar tu nombre de usuario para guardar tu puntaje en el ranking entre todos los jugadores de <em>Quien es Quien</em></p><br />
+    </article>
+<a href=@Url.Action("Juego","Home") class="button">Jugar Individual</a></br>
+<a href=@Url.Action("Juego","Home") class="button">Jugar Multiplayer</a></br>
